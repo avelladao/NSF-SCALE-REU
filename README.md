@@ -62,8 +62,6 @@ Undergraduate Research (REU): Drone Swarm Coordination & Mathematical Modeling; 
 - G.S.A.E.A Project Report: Present within the Repository
 - Example outputs:
   - Model Representation Analysis (1 to 1 or different)
-  - X
-  - X
 
 ---
 
