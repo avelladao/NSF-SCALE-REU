@@ -1,4 +1,4 @@
-Undergraduate Research (REU): Drone Swarm Coordination & Mathematical Modeling; Southern Methodist University, NSF SCALE Program (Summer 2025):
+Drone Swarm Coordination & Mathematical Modeling
 
 ---
 
