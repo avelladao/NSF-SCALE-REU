@@ -1,12 +1,3 @@
-Hello there👋,
-
-My name is Anthony Velladao, and I am a rising junior at Southern Methodist University pursuing a Bachelor’s degree in Electrical & Computer Engineering, specializing in power, with a minor in Business as well.  
-I am deeply passionate about drones, autonomous systems, and their applications in real-world settings, particularly in cutting-edge research within the private sector.  
-
-This repository showcases the work I completed as part of an Undergraduate Research Experience (REU) during the Summer of 2025. Through this program, I had the incredible opportunity to dive into drone technologies, 
-mathematical modeling, and applied research. This opportunity has allowed me to gain hands-on experience with every topic listed below, from drone flight systems & 3D modeling to advanced differential equations & reduced-order modeling.
-I'm excited to continue expanding my skills and one day contribute to the private sector, helping to push innovation forward in drones, autonomy, and engineering.
-
 Undergraduate Research (REU): Drone Swarm Coordination & Mathematical Modeling; Southern Methodist University, NSF SCALE Program (Summer 2025):
 
 ---
