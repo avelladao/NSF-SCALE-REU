@@ -15,7 +15,7 @@ Undergraduate Research (REU): Drone Swarm Coordination & Mathematical Modeling; 
     - Focused on creating high-fidelity, texture-mapped digital twins
 
 - **Part 2: Mathematical Modeling (Dallas, TX)**
-  - Complex differential equations & partial differential equations
+  - Complex differential equations
   - Reduced order modeling (ROM)
   - Studied:
     - Fermi-Pasta-Ulam model
@@ -28,12 +28,11 @@ Undergraduate Research (REU): Drone Swarm Coordination & Mathematical Modeling; 
 
 ## Tools & Languages
 - **Languages:** Python, C++
-- **Frameworks/Software:** COLMAP, PyCOLMAP, PyTorch, QGIS, Gaussian Splatting, YOLO, MeshLab, DeepForest
+- **Software:** COLMAP, PyCOLMAP, PyTorch, QGIS, Gaussian Splatting, YOLO, MeshLab, DeepForest
 
 ---
 
 ## Key Takeaways
-This REU provided:
 - Advanced skills in drone systems and autonomous learning
 - Experience with cutting-edge 3D modeling techniques
 - Deep understanding of applied mathematics in synchronization, dynamics, and modeling
