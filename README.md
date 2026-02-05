@@ -1,4 +1,4 @@
-Drone Swarm Coordination & Mathematical Modeling
+# Drone Swarm Coordination & Mathematical Modeling
 
 ---
 
